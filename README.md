@@ -56,7 +56,7 @@ I'm a developer focused on **Web Development** and **Competitive Programming / D
 | **[ContriFlow](https://github.com/iqbhavya/ContriFlow)** | A contribution-focused developer project | Full-Stack Web |
 | **[Rentra](https://github.com/iqbhavya/Rentra)** | A web project built around rental workflows | Full-Stack Web |
 | **[Basic-Chat-System](https://github.com/iqbhavya/Basic-Chat-System)** | A basic real-time communication project | Web Development |
-| **[Todo-List](https://github.com/iqbhavya/Todo-List)** | A task management web application | Web Development |
+
 
 ---
 
