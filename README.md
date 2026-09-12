@@ -53,14 +53,22 @@ I'm a developer focused on **Web Development** and **Competitive Programming / D
 
 | Project | What it is | Focus |
 |---|---|---|
-| **[ContriFlow](https://github.com/iqbhavya/ContriFlow)** | A contribution-focused developer project | Web Development |
+| **[ContriFlow](https://github.com/iqbhavya/ContriFlow)** | A contribution-focused developer project | Full-Stack Web |
 | **[Rentra](https://github.com/iqbhavya/Rentra)** | A web project built around rental workflows | Full-Stack Web |
-| **[CP-and-DSA](https://github.com/iqbhavya/CP-and-DSA)** | Solutions and practice for competitive programming & DSA | C++ / Algorithms |
 | **[Basic-Chat-System](https://github.com/iqbhavya/Basic-Chat-System)** | A basic real-time communication project | Web Development |
+| **[Todo-List](https://github.com/iqbhavya/Todo-List)** | A task management web application | Web Development |
 
 ---
 
 ## Competitive Programming & DSA
+
+Competitive Programming and DSA are a major part of my current learning and problem-solving practice.
+
+### CP & DSA Practice
+
+**[CP-and-DSA](https://github.com/iqbhavya/CP-and-DSA)**
+
+A dedicated repository for my **Data Structures & Algorithms practice, competitive programming solutions, and problem-solving work**.
 
 ```text
 Data Structures     █████████░░  In Progress
@@ -69,9 +77,7 @@ Problem Solving     ████████░░░  In Progress
 Competitive Coding  ███████░░░░  Building consistency
 ```
 
-My approach is simple: **understand the concept → solve problems → review mistakes → repeat.**
-
-You can find my practice work in **[CP-and-DSA](https://github.com/iqbhavya/CP-and-DSA)**.
+**Approach:** `understand → solve → review → improve`
 
 ---
 
