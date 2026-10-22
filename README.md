@@ -53,7 +53,8 @@ I'm a developer focused on **Web Development** and **Competitive Programming / D
 
 | Project | What it is | Focus |
 |---|---|---|
-| **[ContriFlow](https://github.com/iqbhavya/ContriFlow)** | A contribution-focused developer project | Full-Stack Web |
+| **[LeafLock](https://github.com/iqbhavya/LeafLock)** | An outdoor two-player game combining physical steganography, computer vision, image matching, and AI-generated clues | Full-Stack Web, Computer Vision & AI |
+| **[ContriFlow](https://github.com/iqbhavya/ContriFlow)** | A contribution-focused platform for clubs to assign tasks and track team contributions | Full-Stack Web |
 | **[Rentra](https://github.com/iqbhavya/Rentra)** | A web project built around rental workflows | Full-Stack Web |
 | **[Basic-Chat-System](https://github.com/iqbhavya/Basic-Chat-System)** | A basic real-time communication project | Web Development |
 
