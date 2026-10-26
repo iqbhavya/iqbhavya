@@ -2,120 +2,81 @@
 
 # Bhavya Yadav
 
-### Web Developer • Competitive Programmer • DSA Enthusiast
+### Web Developer • Competitive Programmer • DSA Practitioner
 
-Building useful things on the web, sharpening problem-solving skills, and learning by shipping.
-
-[![GitHub](https://img.shields.io/badge/GitHub-@iqbhavya-181717?style=for-the-badge&logo=github)](https://github.com/iqbhavya)
+[![GitHub](https://img.shields.io/badge/GitHub-iqbhavya-181717?style=for-the-badge&logo=github)](https://github.com/iqbhavya)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-iqbhavya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iqbhavya/)
 
 </div>
 
 ---
 
-## About
+## About Me
 
-I'm a developer focused on **Web Development** and **Competitive Programming / DSA**.
+I build practical web projects and strengthen my problem-solving through consistent Competitive Programming and DSA practice.
 
-- Building practical web projects and experimenting with new ideas
-- Solving Data Structures & Algorithms problems to improve problem-solving
-- Currently strengthening my fundamentals in **C++**, DSA, algorithms, and modern web development
-- Interested in open source, developer tooling, and building products that are actually useful
-
-> **Current focus:** Web Development + Competitive Programming + DSA
+- Focused on **Web Development**, **Competitive Programming**, and **Data Structures & Algorithms**
+- Interested in building useful products with clean and maintainable code
+- Improving both full-stack development fundamentals and algorithmic thinking
 
 ---
 
 ## Tech Stack
 
-### Languages
-
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-### Web Development
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++ badge" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript badge" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 badge" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 badge" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React badge" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js badge" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express badge" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB badge" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git badge" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub badge" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code badge" />
+</p>
 
 ---
 
 ## Featured Projects
 
-| Project | What it is | Focus |
-|---|---|---|
-| **[LeafLock](https://github.com/iqbhavya/LeafLock)** | An outdoor two-player game combining physical steganography, computer vision, image matching, and AI-generated clues | Full-Stack Web, Computer Vision & AI |
-| **[ContriFlow](https://github.com/iqbhavya/ContriFlow)** | A contribution-focused platform for clubs to assign tasks and track team contributions | Full-Stack Web |
-| **[Rentra](https://github.com/iqbhavya/Rentra)** | A web project built around rental workflows | Full-Stack Web |
-| **[Basic-Chat-System](https://github.com/iqbhavya/Basic-Chat-System)** | A basic real-time communication project | Web Development |
-
+| Project | Description |
+| --- | --- |
+| [**LeafLock**](https://github.com/iqbhavya/LeafLock) | Outdoor two-player game combining physical steganography, computer vision, image matching, and AI-generated clues; reflects full-stack web development and strong problem-solving. |
+| [**ContriFlow**](https://github.com/iqbhavya/ContriFlow) | Contribution-focused platform for clubs to assign tasks and track team contributions. |
+| [**Rentra**](https://github.com/iqbhavya/Rentra) | Web project built around rental workflows. |
+| [**Basic-Chat-System**](https://github.com/iqbhavya/Basic-Chat-System) | Basic real-time communication project. |
+| [**CP-and-DSA**](https://github.com/iqbhavya/CP-and-DSA) | Repository for DSA practice, competitive programming solutions, and problem-solving work. |
 
 ---
 
 ## Competitive Programming & DSA
 
-Competitive Programming and DSA are a major part of my current learning and problem-solving practice.
+I regularly practice Competitive Programming and DSA to improve algorithmic thinking, coding fundamentals, and solution quality.
 
-### CP & DSA Practice
-
-**[CP-and-DSA](https://github.com/iqbhavya/CP-and-DSA)**
-
-A dedicated repository for my **Data Structures & Algorithms practice, competitive programming solutions, and problem-solving work**.
-
-```text
-Data Structures     █████████░░  In Progress
-Algorithms          ████████░░░  In Progress
-Problem Solving     ████████░░░  In Progress
-Competitive Coding  ███████░░░░  Building consistency
-```
-
-**Approach:** `understand → solve → review → improve`
+**Practice repo:** [CP-and-DSA](https://github.com/iqbhavya/CP-and-DSA)
 
 ---
 
 ## GitHub Activity
 
-
-
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=iqbhavya&hide_border=true" />
-
+  <img src="https://streak-stats.demolab.com?user=iqbhavya&hide_border=true" alt="Bhavya Yadav's GitHub streak stats" />
 </div>
 
 ---
 
 ## Currently Learning
 
-- Advanced **Data Structures & Algorithms**
-- Competitive Programming patterns and problem-solving techniques
-- Modern **Frontend Development**
+- Advanced Data Structures and Algorithms
+- Competitive programming techniques
+- Modern frontend development
 - Backend development and API design
-- Writing cleaner, more maintainable code
 
 ---
 
-## Let's Connect
+## Connect
 
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-iqbhavya-181717?style=for-the-badge&logo=github)](https://github.com/iqbhavya)
-
-</div>
-
----
-
-<div align="center">
-
-### `code → learn → build → repeat`
-
-</div>
+- GitHub: [@iqbhavya](https://github.com/iqbhavya)
+- LinkedIn: [iqbhavya](https://www.linkedin.com/in/iqbhavya/)
